@@ -1,14 +1,14 @@
 {
-  "main.css": "/music/static/css/main.e1dfa0a8.chunk.css",
-  "main.js": "/music/static/js/main.6203eace.chunk.js",
-  "main.js.map": "/music/static/js/main.6203eace.chunk.js.map",
+  "main.css": "/music/static/css/main.e779932c.chunk.css",
+  "main.js": "/music/static/js/main.86d3f09a.chunk.js",
+  "main.js.map": "/music/static/js/main.86d3f09a.chunk.js.map",
   "static/js/1.609c6d65.chunk.js": "/music/static/js/1.609c6d65.chunk.js",
   "static/js/1.609c6d65.chunk.js.map": "/music/static/js/1.609c6d65.chunk.js.map",
   "runtime~main.js": "/music/static/js/runtime~main.5604c427.js",
   "runtime~main.js.map": "/music/static/js/runtime~main.5604c427.js.map",
-  "static/css/main.e1dfa0a8.chunk.css.map": "/music/static/css/main.e1dfa0a8.chunk.css.map",
-  "static/media/index.css": "/music/static/media/roboto-condensed.light.cf4449c1.ttf",
+  "static/css/main.e779932c.chunk.css.map": "/music/static/css/main.e779932c.chunk.css.map",
+  "static/media/index.css": "/music/static/media/economica-bold.82620571.ttf",
   "index.html": "/music/index.html",
-  "precache-manifest.41e502e0160b6946797f3ab99a6f8707.js": "/music/precache-manifest.41e502e0160b6946797f3ab99a6f8707.js",
+  "precache-manifest.98a976149ff2d36dc918d4258f76f8ec.js": "/music/precache-manifest.98a976149ff2d36dc918d4258f76f8ec.js",
   "service-worker.js": "/music/service-worker.js"
 }
